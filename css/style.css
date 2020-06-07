@@ -1,0 +1,29 @@
+body {
+    padding-top: 50px;
+    
+  }
+.em-text{
+    color:#260c8a !important;
+}
+.jumbotron{
+
+    background: url(../images/literature-3091212_1280.jpg) top center;
+  
+    height: 598px;
+    
+    
+  
+    color:rgb(212, 189, 189);
+  
+  }
+
+.forms1{
+   border-style: solid;
+   border-color: black;
+   padding-right: 25px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+}
+ 
+  
+  
